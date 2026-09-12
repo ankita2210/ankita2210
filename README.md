@@ -23,10 +23,10 @@ Currently focused on **Backend Engineering, Distributed Systems, Cloud Architect
 
 * 💼 **Lead Engineer @ Arcesium**
 * 🧑‍💻 **6+ years** of professional software engineering experience
-* ☁️ Experienced in **AWS cloud migrations and modernization of enterprise applications**
+* ☁️ Experienced in **AWS cloud migrations and enterprise application modernization**
 * ⚙️ Strong background in **Java, Kotlin, Spring Boot, React and SQL**
 * 🏗️ Interested in **Distributed Systems, Microservices, System Design & Scalable Architecture**
-* 📊 Experience building software for **financial technology / asset management platforms**
+* 📊 Experience building software for **large-scale financial technology platforms**
 * 👥 Lead and mentor engineers, drive sprint planning and collaborate closely with Product & QA
 * 🔍 Passionate about improving engineering processes, reducing manual workflows and building reliable systems
 * 🎓 **M.Tech in Software Engineering — BITS Pilani**
@@ -86,88 +86,89 @@ Currently focused on **Backend Engineering, Distributed Systems, Cloud Architect
 
 **Jan 2025 – Present**
 
-Leading engineering initiatives across financial technology products with a focus on architecture, delivery, modernization and technical leadership.
+Leading engineering initiatives across enterprise financial technology products with a focus on architecture, delivery, modernization and technical leadership.
 
 **Key areas:**
 
-* Led enterprise application modernization and **AWS cloud migration initiatives**
+* Lead enterprise application modernization and **AWS cloud migration initiatives**
 * Drive technical analysis, solution design, estimation and implementation planning
-* Work closely with Product Managers to translate business requirements into scalable technical solutions
+* Translate complex business requirements into scalable technical solutions
 * Lead sprint planning and delivery for engineering teams
-* Act as a technical SME for **Cash & Unitholders** products
-* Mentor engineers and support design discussions, code reviews and technical problem solving
-* Coordinate across Development, QA, Product and external stakeholders
+* Act as a technical SME for multiple business-critical applications
+* Mentor engineers and contribute to design discussions and code reviews
+* Collaborate across Engineering, Product, QA and external stakeholders
 
 ### Senior Software Engineer — Arcesium
 
 **Jul 2021 – Jan 2025**
 
-Built and enhanced enterprise financial applications involving backend services, frontend applications, workflows and data-intensive systems.
+Built and enhanced enterprise applications involving backend services, frontend applications, workflows and data-intensive systems.
 
 ---
 
 ## ⭐ Selected Engineering Work
 
-### ☁️ Enterprise AWS Migration
+### ☁️ Enterprise Application Cloud Migration
 
-Led the modernization and migration of a third-party accounting platform and its database from on-premise infrastructure to AWS.
+Led the modernization and migration of a **business-critical enterprise application and its relational database** from on-premise infrastructure to AWS.
 
 **Highlights**
 
-* Designed migration approach for application + database
+* Designed the migration approach for both application and database infrastructure
 * Eliminated legacy on-premise dependencies
 * Planned downstream application and library upgrades
-* Owned migration execution, blockers and go-live planning
-* Designed rollback strategy and coordinated business sign-offs
-* Worked with audit stakeholders during the migration
+* Owned technical execution, dependency management and go-live planning
+* Designed rollback and risk-mitigation strategies
+* Coordinated technical and business stakeholders throughout the migration
 
 **Focus:** `AWS` `Cloud Migration` `SQL Server` `Enterprise Systems` `Release Management`
 
 ---
 
-### 📊 Distribution Scheduler & Unitholder Wires
+### 📊 Real-Time Financial Operations Dashboard
 
-Designed and delivered a dashboard to manage and approve unitholder wire distributions.
+Designed and delivered a web-based dashboard to manage and track **time-sensitive financial operations**.
 
 **Highlights**
 
-* Built React-based frontend with Kotlin backend services
-* Implemented concurrent data fetching to retrieve earnings information before snapshots
-* Designed approval workflows for financial transactions
-* Replaced hard-coded categories with a self-service model
-* Helped drive the initiative towards a **zero-touch operational workflow**
+* Built a React-based frontend with Kotlin backend services
+* Implemented concurrent data retrieval to aggregate information from multiple sources
+* Designed workflow-based approvals for sensitive financial operations
+* Replaced hard-coded business categories with a configurable self-service model
+* Reduced manual intervention and moved the workflow towards a **zero-touch operational model**
 
-**Focus:** `Kotlin` `React` `Concurrency` `REST APIs` `Financial Systems`
+**Focus:** `Kotlin` `React` `Concurrency` `REST APIs` `Workflow Design`
 
 ---
 
-### 🔐 Unitholder Holdbacks
+### 🔄 Workflow & Lifecycle Management Platform
 
-Built a workflow-driven system for managing unitholder holdbacks.
+Built a workflow-driven application for managing the **complete lifecycle of business transactions and operational exceptions**.
 
 **Highlights**
 
-* Designed CRUD APIs and lifecycle management
-* Implemented approval workflows
-* Built React UI for operational visibility
-* Eliminated manual tracking and improved operational reliability
+* Designed REST APIs for creating, updating and tracking business records
+* Implemented approval workflows and state transitions
+* Built a React-based operational interface
+* Improved visibility into transaction lifecycle and status
+* Eliminated manual tracking and reduced operational overhead
 
-**Focus:** `Java` `React` `REST APIs` `Workflow Design`
+**Focus:** `Java` `React` `REST APIs` `Workflow Design` `State Management`
 
 ---
 
 ## 🧠 What I Like Building
 
 ```text
-Scalable Backend Systems
-        ↓
-Distributed Services
-        ↓
-Reliable APIs & Data Pipelines
-        ↓
-Cloud-Native Architecture
-        ↓
-Simple User Experiences
+Complex Business Problem
+          ↓
+Simple & Scalable Design
+          ↓
+Reliable Backend Services
+          ↓
+Efficient Data & Workflows
+          ↓
+Cloud-Native Systems
 ```
 
 I particularly enjoy problems involving:
@@ -199,11 +200,9 @@ Current areas of focus:
 
 **M.Tech — Software Engineering**
 Birla Institute of Technology & Science (BITS), Pilani
-2022 – 2023
 
 **B.Tech — Computer Science / Engineering**
 Indian Institute of Information Technology, Lucknow
-2015 – 2019
 
 ---
 
