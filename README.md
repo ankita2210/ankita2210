@@ -1,8 +1,8 @@
 # Hi, I'm Ankita Nasipuri 👋
 
-### Lead Engineer | Software Engineer | Backend & Distributed Systems
+### Software Engineer III | Backend & Distributed Systems
 
-I’m a **Lead Engineer at Arcesium** with 6+ years of experience building scalable software systems in the financial technology domain.
+I’m a **Software Engineer III at Arcesium** with 6+ years of experience building scalable software systems in the financial technology domain.
 
 I enjoy solving complex engineering problems, designing reliable backend systems, modernizing legacy applications, and turning ambiguous business requirements into simple, scalable solutions.
 
@@ -21,7 +21,7 @@ Currently focused on **Backend Engineering, Distributed Systems, Cloud Architect
 
 ## 🚀 About Me
 
-* 💼 **Lead Engineer @ Arcesium**
+* 💼 **Software Engineer III @ Arcesium**
 * 🧑‍💻 **6+ years** of professional software engineering experience
 * ☁️ Experienced in **AWS cloud migrations and enterprise application modernization**
 * ⚙️ Strong background in **Java, Kotlin, Spring Boot, React and SQL**
@@ -82,7 +82,7 @@ Currently focused on **Backend Engineering, Distributed Systems, Cloud Architect
 
 ## 💼 Professional Experience
 
-### Lead Engineer — Arcesium
+### Software Engineer III — Arcesium
 
 **Jan 2025 – Present**
 
