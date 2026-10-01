@@ -201,7 +201,7 @@ My work spans backend engineering, cloud migrations, distributed systems, workfl
 
 **Situation:** Traditional media-player controls required physical interaction with a keyboard, mouse, or remote.
 
-**Task:** Develop an application that recognizes hand gestures from depth-camera images and translates them into VLC Media Player commands.
+**Task:** Develop a script that recognizes hand gestures from depth-camera images and translates them into VLC Media Player commands.
 
 **Action:**
 - Used Microsoft Kinect and libfreenect to acquire depth frames.
@@ -210,7 +210,7 @@ My work spans backend engineering, cloud migrations, distributed systems, workfl
 - Trained a linear Support Vector Machine (SVM) classifier to recognize predefined gestures.
 - Integrated real-time predictions with VLC controls for playback, navigation, and volume adjustment.
 
-**Result:** Built an end-to-end touchless media-control application, demonstrating practical integration of computer vision, machine learning, sensor processing, and desktop software.
+**Result:** Built an end-to-end touchless media-control script, demonstrating practical integration of computer vision, machine learning, sensor processing, and desktop software.
 
 **Technologies:** Python, OpenCV, Microsoft Kinect, libfreenect, NumPy, Scikit-learn, HOG, SVM, VLC
 
@@ -223,7 +223,7 @@ My work spans backend engineering, cloud migrations, distributed systems, workfl
 - **Languages:** Java, Kotlin, Python, JavaScript, TypeScript
 - **Backend Development:** REST APIs, Spring-based development, Django, API design
 - **Cloud & Infrastructure:** AWS, Google Cloud Platform, Cloud Migration, Load Balancing
-- **Distributed Systems:** Microservices, Event-Driven Architecture, Amazon SQS, Asynchronous Processing, Idempotency
+- **Distributed Systems:** Microservices, Event-Driven Architecture, Amazon SQS, Asynchronous Processing
 - **Databases:** SQL Server, Relational Database Design, Data Modeling
 - **Frontend:** React, Angular
 - **Machine Learning & Computer Vision:** OpenCV, Scikit-learn, HOG, SVM
