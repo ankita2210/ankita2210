@@ -26,9 +26,9 @@ Currently focused on **Backend Engineering, Distributed Systems, Cloud Architect
 * ☁️ Experienced in **AWS cloud migrations and enterprise application modernization**
 * ⚙️ Strong background in **Java, Kotlin, Spring Boot, React and SQL**
 * 🏗️ Interested in **Distributed Systems, Microservices, System Design & Scalable Architecture**
-* 📊 Experience building software for **large-scale financial technology platforms**
+* 📊 Experience building software for **financial technology platforms**
 * 👥 Lead and mentor engineers, drive sprint planning and collaborate closely with Product & QA
-* 🔍 Passionate about improving engineering processes, reducing manual workflows and building reliable systems
+* 🔍 Passionate about improving engineering processes, automating manual workflows and building reliable systems
 * 🎓 **M.Tech in Software Engineering — BITS Pilani**
 * 🎓 **B.Tech — IIIT Lucknow**
 
@@ -108,13 +108,13 @@ Built and enhanced enterprise applications involving backend services, frontend 
 
 ## ⭐ Selected Engineering Work
 
-My work spans backend engineering, cloud modernization, distributed systems, workflow automation, performance optimization, and machine learning. The following projects highlight the engineering challenges I have worked on, the solutions I implemented, and their outcomes.
+My work spans backend engineering, cloud migrations, distributed systems, workflow automation, performance optimization, and machine learning. The following projects highlight the engineering challenges I have worked on, the solutions I implemented, and their outcomes.
 
 ---
 
 ### 1. Enterprise Application & Database — AWS Migration
 
-**Domain:** Cloud Modernization | Backend Engineering
+**Domain:** Cloud Modernization
 
 **Situation:** A business-critical application and its relational database were running on legacy on-premises infrastructure, creating operational dependencies and limiting further cloud modernization.
 
@@ -124,11 +124,11 @@ My work spans backend engineering, cloud modernization, distributed systems, wor
 - Planned and coordinated a lift-and-shift migration of the application, SQL Server database, batch jobs, and downstream integrations.
 - Established secure hybrid connectivity and AWS-based load balancing and traffic routing.
 - Redesigned database-dependent integrations to use HTTP APIs, reducing direct database coupling.
-- Coordinated dependency upgrades, testing, deployment readiness, rollback planning, and stakeholder sign-offs.
+- Coordinated dependency upgrades, load testing, deployment readiness, rollback planning, and stakeholder sign-offs.
 
-**Result:** Migrated a critical application to AWS, reduced dependencies on legacy infrastructure, and established a foundation for subsequent cloud modernization.
+**Result:** Migrated a critical application to AWS, reduced dependency on legacy infrastructure, and established a foundation for subsequent cloud modernization.
 
-**Technologies:** AWS, SQL Server, REST APIs, Load Balancing, Hybrid Connectivity, System Integration
+**Technologies:** AWS, SQL Server, REST APIs, Load Balancing, System Integration
 
 ---
 
@@ -170,7 +170,7 @@ My work spans backend engineering, cloud modernization, distributed systems, wor
 
 **Result:** Established a single source of truth for request management and reporting, improving traceability, historical accuracy, and data integrity.
 
-**Technologies:** Java, React, SQL, REST APIs, Data Modeling, Versioning, Workflow Automation
+**Technologies:** Java, React, SQL, REST APIs, Data Modeling
 
 ---
 
@@ -191,7 +191,7 @@ My work spans backend engineering, cloud modernization, distributed systems, wor
 
 **Result:** Automated ownership calculations and improved visibility into allocations and valuations while maintaining auditable historical records.
 
-**Technologies:** Java, React, SQL, Data Integration, Business Rules, Financial Calculations
+**Technologies:** Java, React, SQL
 
 ---
 
@@ -215,26 +215,6 @@ My work spans backend engineering, cloud modernization, distributed systems, wor
 **Technologies:** Python, OpenCV, Microsoft Kinect, libfreenect, NumPy, Scikit-learn, HOG, SVM, VLC
 
 **Source Code:** [Hand Gesture Recognition Using Depth Camera](https://github.com/ankita2210/Hand-Gesture-Reognition-using-Depth-Camera)
-
----
-
-### 7. Data-Driven Web Applications
-
-**Domain:** Full-Stack Development | Data Visualization
-
-**Situation:** Different applications required accessible interfaces for viewing hierarchical information, monitoring metrics, and displaying live data.
-
-**Task:** Develop web applications that present structured data through interactive dashboards and user-friendly interfaces.
-
-**Action:**
-- Built a hierarchical dashboard supporting multiple levels of organizational data.
-- Developed a weather dashboard to display relevant weather information.
-- Created a metrics dashboard for visualizing and monitoring application data.
-- Worked across frontend components, backend integration, and data presentation.
-
-**Result:** Delivered interactive web applications that improved access to structured information and simplified data exploration.
-
-**Technologies:** Python, Django, Angular, JavaScript, REST APIs, Data Visualization
 
 ---
 
